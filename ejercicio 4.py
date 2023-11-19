@@ -1,4 +1,3 @@
-
 N = int(input("Ingrese un entero positivo: "))
 
 suma = N * (N + 1) // 2
